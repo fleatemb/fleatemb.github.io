@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fleatemb.github.io/sitemap.html.gz
+Sitemap: https://fleatemb.github.io/app/sitemap.html.gz
+Sitemap: https://fleatemb.github.io/assets/sitemap.html.gz
+Sitemap: https://fleatemb.github.io/css/sitemap.html.gz
+Sitemap: https://fleatemb.github.io/data/sitemap.html.gz
+Sitemap: https://fleatemb.github.io/includes/sitemap.html.gz
+Sitemap: https://fleatemb.github.io/item/sitemap.html.gz
+Sitemap: https://fleatemb.github.io/src/sitemap.html.gz
